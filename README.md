@@ -2,6 +2,8 @@
 
 Projet de préparation à la journée de sélection Simplon, parcours **Développeur·se en Intelligence Artificielle**.
 
+**Dépôt GitHub :** https://github.com/alxmls/projet-ventes-pme-simplon
+
 ## Contexte
 
 Une PME cliente souhaite mieux comprendre la dynamique de ses ventes sur un extrait de 20 jours (39 lignes, 3 produits, 2 régions). Ce dépôt contient :

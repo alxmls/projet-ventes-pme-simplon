@@ -64,4 +64,4 @@
 - `requetes.sql` : export SQL des requêtes (exécutables sur sqliteonline.com).
 - `ventes-par-produit.py` + `ventes-par-produit.html` : graphique des quantités vendues par produit.
 - `ca-par-produit.py` + `ca-par-produit.html` : graphique du chiffre d'affaires par produit.
-- Lien du dépôt GitHub du projet Python : *(à compléter après publication)*.
+- Lien du dépôt GitHub du projet Python : https://github.com/alxmls/projet-ventes-pme-simplon
